@@ -1,6 +1,6 @@
 // Copyright Epic Games, Inc. All Rights Reserved.
 
-#include "BlueprintPropagator.h"
+#include "BlueprintPropagatorModule.h"
 
 #define LOCTEXT_NAMESPACE "FBlueprintPropagatorModule"
 
